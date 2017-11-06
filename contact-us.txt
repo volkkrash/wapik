@@ -22,7 +22,7 @@ header.header
 			img.map
 
 main.main
-	.contact-us
+	.section.section-contact-us
 		.container
 			.section-header
 				h2.section-title
@@ -52,14 +52,15 @@ main.main
 								li.list-item
 
 	.download
-				.section-background
-				.section-foregroung
-					.container
-						.section-left
-							h2.section-title
-							p.section-subtitle
-						.section-right
-							a.button			
+		.container	
+			.section-background
+			.section-foregroung
+				.container
+					.section-left
+						h2.section-title
+						p.section-subtitle
+					.section-right
+						a.button			
 
 footer.footer
 	.footer-body
