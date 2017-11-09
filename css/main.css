@@ -374,6 +374,12 @@ h4.section-description {
 .list-include .list-item li {
   margin-bottom: 9px;
 }
+.list-include ul li i {
+  margin-right: 10px;
+  color: #c5d6d5;
+  font-size: 26px;
+  font-weight: 300;
+}
 
 
 
