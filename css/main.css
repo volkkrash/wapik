@@ -98,7 +98,7 @@ a.active {
 }
 .header-bg {
   position: absolute;
-  background-image: url(.../image/header-bg.jpg);
+  background-image: url(../image/header-bg.jpg);
   background-position: 50% 50%;
   background-size: cover;
   top: 0;
@@ -109,7 +109,7 @@ a.active {
 .header-overlay {
   position: absolute;
   background-color: #2d6e70;
-  opacity: 0.6;
+  opacity: 0.9;
   top: 0;
   right: 0;
   bottom: 0;
