@@ -11,7 +11,7 @@ body
 							.header-logo
 								h3.logo
 							.header-phone
-								p.phone	
+								p.phone
 						.header-right
 							.header-nav
 								ul.list-nav
@@ -22,7 +22,7 @@ body
 									li.list-item
 										a
 									li.list-item
-										a		
+										a
 							a.button-blue
 					.header-bottom
 						h1.title
@@ -30,7 +30,7 @@ body
 						a.button-green
 
 		main.main
-			.section.section-features
+			.section.section-feature
 				.container
 					.section-header
 						h2.section-title
@@ -58,7 +58,7 @@ body
 										.card-image
 										h5.card-title
 									.card-bottom
-										p.card-description			
+										p.card-description
 					.section-bottom
 						.list.list-features
 							.list-item
@@ -81,17 +81,17 @@ body
 										.card-image
 										h5.card-title
 									.card-bottom
-										p.card-description	
+										p.card-description
 							.list-item
 								.card.card-feature
 									.card-header
 										.card-image
 										h5.card-title
 									.card-bottom
-										p.card-description						
-			
+										p.card-description
+
 			.section.section-convenience
-				.container			
+				.container
 					.section-header
 						h2.section-title
 						.hr-green
@@ -110,7 +110,7 @@ body
 			.section.section-reviews
 				.container
 					.container
-						.review	
+						.review
 							.section-left
 								h4.description
 								p.rewiever-name
@@ -144,7 +144,7 @@ body
 									p.description
 									p.description
 								.card-bottom
-								 a.button	
+								 a.button
 						.price-cards
 							.card-item
 								.card-header
@@ -158,7 +158,7 @@ body
 									p.description
 									p.description
 								.card-bottom
-								 a.button			 	
+								 a.button
 						.price-cards
 							.card-item
 								.card-header
@@ -172,7 +172,7 @@ body
 									p.description
 									p.description
 								.card-bottom
-								 a.button			 
+								 a.button
 
 			.section.section-include
 				.container
@@ -192,19 +192,6 @@ body
 							ul.list-include
 								li.list-item
 									i.fa.fa-check-circle-o
-									p.description		
-						.list-includes
-							ul.list-include
-								li.list-item
-									i.fa.fa-check-circle-o
-									p.description
-							ul.list-include
-								li.list-item
-									i.fa.fa-check-circle-o
-									p.description
-							ul.list-include
-								li.list-item
-									i.fa.fa-check-circle-o
 									p.description
 						.list-includes
 							ul.list-include
@@ -218,10 +205,23 @@ body
 							ul.list-include
 								li.list-item
 									i.fa.fa-check-circle-o
-									p.description	
+									p.description
+						.list-includes
+							ul.list-include
+								li.list-item
+									i.fa.fa-check-circle-o
+									p.description
+							ul.list-include
+								li.list-item
+									i.fa.fa-check-circle-o
+									p.description
+							ul.list-include
+								li.list-item
+									i.fa.fa-check-circle-o
+									p.description
 
 			.section.section-help
-				.container			
+				.container
 					i.fa.fa-life-ring
 					h2.section-title
 					.hr-green
@@ -236,7 +236,7 @@ body
 							h2.section-title
 							p.section-subtitle
 						.section-right
-							a.button	
+							a.button
 
 		footer.footer
 			.container
@@ -248,9 +248,9 @@ body
 							li.list-item
 								p
 									span
-							li.list-item		
+							li.list-item
 								p
-							li.list-item		
+							li.list-item
 								p
 								p
 					.footer-nav
@@ -263,7 +263,7 @@ body
 								li.list-item
 									a
 								li.list-item
-									a		
+									a
 					.others
 						p.title
 						ul.list-others
@@ -274,7 +274,7 @@ body
 								li.list-item
 									a
 								li.list-item
-									a		
+									a
 					.newsletter
 						p.title
 						p.subtitle
@@ -293,4 +293,4 @@ body
 						.socials
 							img.ball
 						.socials
-							img.cat		
+							img.cat
